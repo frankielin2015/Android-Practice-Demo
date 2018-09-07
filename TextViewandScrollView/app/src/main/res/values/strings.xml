@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextViewandScrollView</string>
+
+    <string name="mypara">Beginning in the 1980s\n\n and continuing into the 21st century,
+        an inordinate amount of attention has been focused on improvement of quality in American industry.
+        Much has been said and written about the Japanese “industrial miracle,” which began in the middle of the 20th century.
+        The Japanese were able to succeed where we and other countries had failed–namely, to create an atmosphere that allows the production of high-quality products.
+        Much of the success of the Japanese has been attributed to the use of statistical methods and statistical thinking among <b>management personnel</b>.
+        Please contact us at frankielin@gmail.com</string>
+</resources>

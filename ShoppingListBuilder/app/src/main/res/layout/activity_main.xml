@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txt_two"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txt_one" />
+
+    <TextView
+        android:id="@+id/txt_three"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txt_two" />
+
+    <TextView
+        android:id="@+id/txt_ten"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txt_nine" />
+
+    <TextView
+        android:id="@+id/txt_nine"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txt_eight" />
+
+    <TextView
+        android:id="@+id/txt_eight"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txt_seven" />
+
+    <TextView
+        android:id="@+id/txt_seven"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txt_six" />
+
+    <TextView
+        android:id="@+id/txt_six"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txt_five" />
+
+    <TextView
+        android:id="@+id/txt_five"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txt_four" />
+
+    <TextView
+        android:id="@+id/txt_four"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txt_three" />
+
+    <TextView
+        android:id="@+id/txt_one"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView15" />
+
+    <Button
+        android:id="@+id/add_item_bttn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp"
+        android:onClick="addItems"
+        android:text="ADD ITEM" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:layout_above="@+id/add_item_bttn"
+        android:layout_alignParentStart="true"
+        android:text="Add items to your list" />
+
+</RelativeLayout>

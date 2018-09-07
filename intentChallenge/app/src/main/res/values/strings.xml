@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">intentChallenge</string>
+    <string name="mainText_hint">Press any of these buttons to read</string>
+    <string name="text_button_one">Text One</string>
+    <string name="text_button_two">Text Two</string>
+    <string name="text_button_three">Text Three</string>
+    <string name="first_para">This whitepaper is intended for existing and potential customers who are
+designing the security infrastructure and configuration for applications running
+in Amazon Web Services (AWS). It provides security best practices that will help
+you define your Information Security Management System (ISMS) and build a set
+of security policies and processes for your organization so you can protect your
+data and assets in the AWS Cloud. The whitepaper also provides an overview of
+different security topics such as identifying, categorizing and protecting your
+assets on AWS, managing access to AWS resources using accounts, users and
+groups and suggesting ways you can secure your data, your operating systems and
+applications and overall infrastructure in the cloud.\n\n
+The paper is targeted at IT decision makers and security personnel and assumes
+that you are familiar with basic security concepts in the area of networking,
+operating systems, data encryption, and operational controls.\n\nThe paper is targeted at IT decision makers and security personnel and assumes
+that you are familiar with basic security concepts in the area of networking,
+operating systems, data encryption, and operational controls.\n\nThe paper is targeted at IT decision makers and security personnel and assumes
+that you are familiar with basic security concepts in the area of networking,
+operating systems, data encryption, and operational controls.</string>
+    <string name="second_para">Information security is of paramount importance to Amazon Web Services (AWS)
+customers. Security is a core functional requirement that protects missioncritical
+information from accidental or deliberate theft, leakage, integrity
+compromise, and deletion.\n\n
+Under the AWS shared responsibility model, AWS provides a global secure
+infrastructure and foundation compute, storage, networking and database
+services, as well as higher level services. AWS provides a range of security services
+and features that AWS customers can use to secure their assets. AWS customers
+are responsible for protecting the confidentiality, integrity, and availability of
+their data in the cloud, and for meeting specific business requirements for
+information protection. For more information on AWS’s security features, please
+read Overview of Security Processes Whitepaper.</string>
+    <string name="third_para">The IAM service is one component of the AWS secure global infrastructure that
+we discuss in this paper. With IAM, you can centrally manage users, security
+credentials such as passwords, access keys, and permissions policies that control
+which AWS services and resources users can access.\n\n
+When you sign up for AWS, you create an AWS account, for which you have a
+user name (your email address) and a password. The user name and password let
+you log into the AWS Management Console, where you can use a browser- based
+interface to manage AWS resources. You can also create access keys (which
+consist of an access key ID and secret access key) to use when you make
+programmatic calls to AWS using the command line interface (CLI), the AWS
+SDKs, or API calls.</string>
+</resources>

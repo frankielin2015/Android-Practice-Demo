@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Scrolling Text2</string>
+    <string name="article_title">The three body problem</string>
+    <string name="article_subtitle">Remembrance of Earth\'s Past </string>
+    <string name="article_text">This is the most impactful sci-fi series I\'ve ever read.
+        What I mean by that, is that this series has permanently changed:
+        the way I look at the stars, the way I perceive time,
+        the way I think about life, the way I think about SETI,
+        the way I think about the meaning of life,
+        the way I think about human beings\' place in the universe, the way I view technology, etc.
+        \n\n
+        This series well and truly \"blew my mind away\".
+        This isn\'t a page0-turning space opera adventure kind of story.
+        The story is interesting and good, and there is most definitely some drama and entertainment - and the writing is excellent (translation to English is superb).
+        But the main thing for me about this series is that it educated me about physics and really made me look at EVERYTHING through a new lens.
+        The ideas in this book I had never encountered before - and I am a voracious reader.
+        I found this series to be totally original and mind-blowing.
+        There were time where I simply needed to put it down after reading only a short time, in order to simply ponder the ideas presented.
+        I\'ve never had quite an experience like this with a book.
+        \n\n
+        Buy it on Amazon at https://www.amazon.com/Three-Body-Problem-Remembrance-Earths-Past-ebook/dp/B00IQO403K</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
