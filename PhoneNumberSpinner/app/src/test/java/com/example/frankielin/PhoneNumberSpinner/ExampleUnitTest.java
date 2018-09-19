@@ -1,4 +1,4 @@
-package com.example.frankielin.debugapp;
+package com.example.frankielin.PhoneNumberSpinner;
 
 import org.junit.Test;
 
@@ -13,10 +13,5 @@ public class ExampleUnitTest {
     @Test
     public void addition_isCorrect() {
         assertEquals(4, 2 + 2);
-    }
-
-    @Test
-    public void multiply() {
-        assertEquals(12,3*4);
     }
 }
